@@ -1,0 +1,56 @@
+station_name,line,lat,lon,year_opened,to_burj_khalifa_km
+UAE Exchange,Red,24.9756,55.07,2011,32.11
+Energy,Red,24.9844,55.0866,2011,30.29
+Ibn Battuta,Red,25.0445,55.118,2011,23.16
+Jebel Ali,Red,25.005,55.1335,2011,25.65
+Danube,Red,25.0185,55.123,2011,25.04
+UAE Pavilion,Red,25.029,55.129,2021,23.75
+MRT-1,Red,25.035,55.134,2021,22.92
+Discovery Gardens,Red,25.0445,55.143,2021,21.52
+Al Furjan,Red,25.029,55.1485,2021,22.59
+Jumeirah Golf Estates,Red,25.0265,55.169,2021,21.75
+Dubai Investment Park,Red,24.989,55.1715,2021,25.36
+Expo 2020,Red,24.956,55.15,2021,29.6
+Dubai Internet City,Red,25.101,55.1745,2010,14.68
+Mashreq Bank,Red,25.0975,55.169,2010,15.34
+Mall of the Emirates,Red,25.118,55.201,2010,11.49
+Sharaf DG,Red,25.108,55.188,2010,13.19
+Noor Bank,Red,25.124,55.218,2010,9.92
+First Abu Dhabi Bank,Red,25.137,55.231,2010,7.99
+Business Bay,Red,25.1879,55.2628,2010,1.56
+Burj Khalifa/Dubai Mall,Red,25.2,55.2735,2010,0.32
+Financial Centre,Red,25.211,55.279,2010,1.6
+Emirates Towers,Red,25.2173,55.283,2010,2.4
+World Trade Centre,Red,25.2243,55.287,2010,3.27
+Max,Red,25.235,55.2945,2009,4.66
+Al Jafiliya,Red,25.231,55.29,2009,4.07
+BurJuman,Red,25.2532,55.302,2009,6.82
+ADCB,Red,25.2575,55.305,2009,7.38
+Al Karama,Red,25.255,55.3055,2009,7.15
+Union,Red,25.268,55.311,2009,8.69
+Baniyas Square,Red,25.2685,55.305,2009,8.5
+Salah Al Din,Red,25.278,55.321,2009,10.13
+Abu Hail,Red,25.286,55.334,2009,11.55
+Abu Baker Al Siddique,Red,25.281,55.329,2009,10.82
+Al Qiyadah,Red,25.29,55.347,2009,12.64
+Stadium,Red,25.2945,55.368,2009,14.34
+Al Nahda,Red,25.294,55.368,2009,14.3
+Centrepoint,Red,25.262,55.392,2009,13.85
+Etisalat,Green,25.263,55.368,2011,11.92
+Al Qusais,Green,25.287,55.368,2011,13.72
+Dubai Airport Free Zone,Green,25.278,55.364,2011,12.73
+Al Nahda (G),Green,25.295,55.37,2011,14.52
+Stadium (G),Green,25.293,55.368,2011,14.22
+Al Qiyadah (G),Green,25.2895,55.347,2011,12.6
+Abu Baker Al Siddique (G),Green,25.281,55.329,2011,10.82
+Salah Al Din (G),Green,25.279,55.322,2011,10.28
+Union (G),Green,25.268,55.311,2011,8.69
+Al Ras,Green,25.264,55.298,2011,7.8
+Palm Deira,Green,25.2615,55.292,2011,7.37
+Baniyas Square (G),Green,25.2685,55.305,2011,8.5
+Al Ghubaiba,Green,25.257,55.295,2011,6.96
+BurJuman (G),Green,25.253,55.3025,2011,6.82
+Oud Metha,Green,25.236,55.312,2011,5.74
+Dubai Healthcare City,Green,25.228,55.322,2011,5.89
+Al Jadaf,Green,25.224,55.334,2011,6.7
+Creek,Green,25.227,55.349,2011,8.2
