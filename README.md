@@ -62,7 +62,7 @@ Sustainable City, Dubai South, and Damac Hills 2 deliver 9%+ rental yields, whil
 ---
 
 ## 🖼️ Screenshots
-<img width="858" height="539" alt="image" src="https://github.com/user-attachments/assets/f096a4a0-6f63-430f-a010-b21f5cc877b7" />
+<img width="871" height="555" alt="Screenshot 2026-09-21 202446" src="https://github.com/user-attachments/assets/8a0ee287-cb2d-488f-ba1f-e52961131e66" />
 <img width="861" height="533" alt="Screenshot 2026-09-21 202545" src="https://github.com/user-attachments/assets/e89a9b59-8575-4e85-9a24-d4b6bf638f61" />
 <img width="862" height="527" alt="Screenshot 2026-09-21 202659" src="https://github.com/user-attachments/assets/88936070-9e09-4895-995d-57d94f8fdf5a" />
 <img width="858" height="539" alt="Screenshot 2026-09-21 202811" src="https://github.com/user-attachments/assets/f17541a8-457a-4041-9fc8-c067db3092fd" />
