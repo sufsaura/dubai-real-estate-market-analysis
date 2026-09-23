@@ -92,9 +92,7 @@ Sustainable City, Dubai South, and Damac Hills 2 deliver 9%+ rental yields, whil
 │   └── Dubai_Real_Estate_Analysis.pbix
 ├── findings.md                 # Full findings log with methodology notes
 └── README.md
-```
 
-*(Note: the `.pbix` file may exceed GitHub's recommended file size — if so, host it via a published Power BI link and reference it here instead of committing the raw file.)*
 
 ---
 
