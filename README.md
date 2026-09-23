@@ -101,4 +101,4 @@ Sustainable City, Dubai South, and Damac Hills 2 deliver 9%+ rental yields, whil
 Built by **Sufiyan** — MCA student and aspiring data analyst based in Chennai, currently open to data analyst roles and relocation to Dubai.
 
 - GitHub: [sufsaura](https://github.com/sufsaura)
-- LinkedIn: [abu-sufiyan-8a233](https://linkedin.com/in/abu-sufiyan-8a233)
+- LinkedIn: [abu-sufiyan-8a233](https://linkedin.com/in/abu-sufiyan0521)
